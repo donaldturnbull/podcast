@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml>
+    <head/>
+    <body version="1.0">
+        <outline xmlUrl="https://feeds.libsyn.com/574455/rss" title="Timcast News"/>
+        <outline xmlUrl="http://rss.infowars.com/Alex.rss" title="Alex Jones Show - Infowars.com"/>
+        <outline xmlUrl="http://feed.nashownotes.com/rss.xml" title="No Agenda Show"/>
+        <outline xmlUrl="https://anchor.fm/s/d8da3d50/podcast/rss" title="Matt Kim Podcast"/>
+        <outline xmlUrl="https://feed.jupiter.zone/allshows" title="All Jupiter Broadcasting Shows"/>
+        <outline xmlUrl="https://pinecast.com/feed/catholicstuff" title="Catholic Stuff You Should Know"/>
+        <outline xmlUrl="http://rss.acast.com/dtns" title="Daily Tech News Show"/>
+        <outline xmlUrl="https://feeds.fireside.fm/asknoah/rss" title="Ask Noah Show"/>
+        <outline xmlUrl="https://www.classicalstuff.net/episodes-1/?format=rss" title="Classical Stuff You Should Know"/>
+        <outline xmlUrl="https://feeds.twit.tv/sn.xml" title="Security Now (Audio)"/>
+        <outline xmlUrl="https://anchor.fm/s/80d5cfc/podcast/rss" title="Bitcoin Audible"/>
+        <outline xmlUrl="https://feeds.megaphone.fm/KM5671060902" title="The Catholic Talk Show"/>
+        <outline xmlUrl="https://feeds.megaphone.fm/darknetdiaries" title="Darknet Diaries"/>
+        <outline xmlUrl="https://feeds.fireside.fm/bsdnow/rss" title="BSD Now"/>
+        <outline xmlUrl="http://feeds.feedburner.com/ReasonAndTheologyShow" title="Reason and Theology Show – REASON &amp; THEOLOGY"/>
+        <outline xmlUrl="https://stickynotespodcast.libsyn.com/rss" title="Sticky Notes: The Classical Music Podcast"/>
+        <outline xmlUrl="https://lexfridman.com/feed/podcast/" title="Lex Fridman Podcast"/>
+        <outline xmlUrl="https://anchor.fm/s/2fa50a94/podcast/rss" title="PBD Podcast"/>
+        <outline xmlUrl="https://feed.podbean.com/hamradiocrashcourse/feed.xml" title="Ham Radio Crash Course Podcast"/>
+        <outline xmlUrl="https://audioboom.com/channels/5033205.rss" title="Redacted News"/>
+        <outline xmlUrl="https://bitboycrypto.libsyn.com/rss" title="Discover Crypto"/>
+        <outline xmlUrl="https://feeds.megaphone.fm/RSV6119586029" title="Timcast IRL"/>
+        <outline xmlUrl="https://watchmanprivacy.libsyn.com/rss" title="Watchman Privacy"/>
+        <outline xmlUrl="https://feeds.buzzsprout.com/1804885.rss" title="Perfect Pitch: Classical Music Deconstructed"/>
+        <outline xmlUrl="https://anchor.fm/s/3ea16150/podcast/rss" title="Closed Network Privacy Podcast"/>
+        <outline xmlUrl="https://rss.art19.com/the-daily-stoic" title="The Daily Stoic"/>
+        <outline xmlUrl="https://api.substack.com/feed/podcast/462466.rss" title="The Lunduke Journal of Technology"/>
+        <outline xmlUrl="https://feeds.simplecast.com/azy33G8_" title="The Art of Manliness"/>
+        <outline xmlUrl="https://anchor.fm/s/717a2198/podcast/rss" title="Simply Bitcoin"/>
+        <outline xmlUrl="https://feeds.fireside.fm/fathermikehomilies/rss" title="Sunday Homilies with Fr. Mike Schmitz"/>
+        <outline xmlUrl="https://www.spreaker.com/show/5383544/episodes/feed" title="HamRadioConcepts Podcast"/>
+        <outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:153598608/sounds.rss" title="Catholic"/>
+        <outline xmlUrl="https://feeds.podcastindex.org/pc20.xml" title="Podcasting 2.0"/>
+        <outline xmlUrl="https://feeds.noagendaassets.com/noagenda.xml" title="No Agenda Show"/>
+        <outline xmlUrl="https://www.spreaker.com/show/5465427/episodes/feed" title="The Dan Bongino Show"/>
+        <outline xmlUrl="https://rss.buzzsprout.com/949645.rss" title="Daily TV Mass"/>
+        <outline xmlUrl="https://feeds.fireside.fm/rosaryinayear/rss" title="The Rosary in a Year (with Fr. Mark-Mary Ames)"/>
+        <outline xmlUrl="https://rss.buzzsprout.com/1987412.rss" title="Avoiding Babylon"/>
+        <outline xmlUrl="https://feeds.transistor.fm/owen-report" title="Owen Report"/>
+        <outline xmlUrl="https://feeds.fireside.fm/bibleinayear/rss" title="The Bible in a Year (with Fr. Mike Schmitz)"/>
+        <outline xmlUrl="https://feeds.fireside.fm/catechisminayear/rss" title="The Catechism in a Year (with Fr. Mike Schmitz)"/>
+        <outline xmlUrl="https://feed.podbean.com/acatholictake/feed.xml" title="A Catholic Take"/>
+    </body>
+</opml>
